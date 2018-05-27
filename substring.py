@@ -1,5 +1,5 @@
-string=input("Enter string:")
-sub_str=input("Enter word:")
+string=input()
+sub_str=input()
 if(string.find(sub_str)==-1):
       print("no")
 else:
