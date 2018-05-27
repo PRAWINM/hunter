@@ -1,3 +1,3 @@
-S=input("enter the string:")
+S=input()
 b = " ".join(S.split(" ")[::-1])
 print(b)
